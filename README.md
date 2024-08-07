@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hatty45
 - 👀 I’m interested in game or software development
-- 🌱 I’m currently learning C# for Unity and Raylib
+- 🌱 I'm currently learning C++ and SDL2 to build simple 2D games
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
