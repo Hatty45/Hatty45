@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mopsicle (@Hatty45)
 - 👀 I’m interested in game or software development
-- 🌱 I'm currently learning C++ and SDL2 to build simple 2D games
+- 🌱 I'm currently learning C++ and SDL2 to build simple 2D games, but also to make Roblox games
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: moose02316 on discord
 - 😄 Pronouns: They/Them
